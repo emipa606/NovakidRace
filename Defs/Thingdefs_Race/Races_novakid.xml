@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================ novakid ========================== -->
+  <AlienRace.ThingDef_AlienRace ParentName="BasePawn">
+    <defName>Alien_novakid</defName>
+    <label>novakid</label>
+    <description>novakids are beings of pure energy and gas, nobody knows where they come from or how they are made.</description>
+    <alienRace>
+      <generalSettings>
+        <maleGenderProbability>0.5</maleGenderProbability>
+        <immuneToAge>true</immuneToAge>
+        <factionRelations>
+        </factionRelations>
+        <alienPartGenerator>
+          <aliencrowntypes>
+            <li>Average_Normal_novakid</li>
+            <li>Average_Pointy_novakid</li>
+            <li>Average_Wide_novakid</li>
+            <li>Narrow_Normal_novakid</li>
+            <li>Narrow_Pointy_novakid</li>
+            <li>Narrow_Wide_novakid</li>
+            <li>Average_Normal_novakid</li>
+            <li>Average_Pointy_novakid</li>
+            <li>Average_Wide_novakid</li>
+            <li>Narrow_Normal_novakid</li>
+            <li>Narrow_Pointy_novakid</li>
+            <li>Narrow_Wide_novakid</li>
+            <li>Average_Normal2</li>
+            <li>Average_Normal3</li>
+            <li>Average_Pointy2</li>
+            <li>Average_Pointy3</li>
+            <li>Average_Wide2</li>
+          </aliencrowntypes>
+          <alienbodytypes>
+            <li>Hulk</li>
+            <li>Thin</li>
+            <li>Male</li>
+            <li>Female</li>
+          </alienbodytypes>
+          <alienskincolorgen Class="ColorGenerator_Options">
+            <options>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(153, 255, 255)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(255, 112, 77)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(255, 128, 255)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(128, 191, 255)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(255, 255, 102)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(115, 115, 115)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(0, 102, 255)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(170, 255, 128)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(153, 51, 255)</only>
+              </li>
+              <li>
+                <weight>1</weight>
+                <only>RGBA(255, 255, 255)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(179, 255, 204)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(0, 179, 179)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(230, 115, 0)</only>
+              </li>
+              <li>
+                <weight>5</weight>
+                <only>RGBA(77, 255, 77)</only>
+              </li>
+              <li>
+                <weight>1</weight>
+                <only>RGBA(0, 0, 153)</only>
+              </li>
+            </options>
+          </alienskincolorgen>
+          <useSkincolorForHair>true</useSkincolorForHair>
+        </alienPartGenerator>
+      </generalSettings>
+      <graphicPaths>
+      </graphicPaths>
+      <hairSettings>
+        <hasHair>true</hasHair>
+        <getsGreyAt>1000</getsGreyAt>
+      </hairSettings>
+      <!-- <pawnKindSettings> -->
+      <!-- <alienslavekinds> -->
+      <!-- <li> -->
+      <!-- <kindDefs> -->
+      <!-- <li>novakidSlave</li> -->
+      <!-- </kindDefs> -->
+      <!-- <chance>10.0</chance> -->
+      <!-- </li> -->
+      <!-- </alienslavekinds> -->
+      <!-- <alienrefugeekinds> -->
+      <!-- <li> -->
+      <!-- <kindDefs> -->
+      <!-- <li>novakidpirate</li> -->
+      <!-- </kindDefs> -->
+      <!-- <chance>15.0</chance> -->
+      <!-- </li> -->
+      <!-- </alienrefugeekinds> -->
+      <!-- <startingColonists> -->
+      <!-- <li> -->
+      <!-- <pawnKindEntries> -->
+      <!-- <li> -->
+      <!-- <kindDefs> -->
+      <!-- <li>novakidColonist</li> -->
+      <!-- </kindDefs> -->
+      <!-- <chance>10.0</chance> -->
+      <!-- </li> -->
+      <!-- </pawnKindEntries> -->
+      <!-- <factionDefs> -->
+      <!-- <li>PlayerColony</li> -->
+      <!-- </factionDefs> -->
+      <!-- </li> -->
+      <!-- </startingColonists> -->
+      <!-- <alienwandererkinds> -->
+      <!-- <li> -->
+      <!-- <pawnKindEntries> -->
+      <!-- <li> -->
+      <!-- <kindDefs> -->
+      <!-- <li>novakidpirate</li> -->
+      <!-- </kindDefs> -->
+      <!-- <chance>10.0</chance> -->
+      <!-- </li> -->
+      <!-- </pawnKindEntries> -->
+      <!-- <factionDefs> -->
+      <!-- <li>PlayerColony</li> -->
+      <!-- </factionDefs> -->
+      <!-- </li> -->
+      <!-- </alienwandererkinds> -->
+      <!-- </pawnKindSettings> -->
+      <thoughtSettings>
+        <cannotReceiveThoughts>
+          <li>EnvironmentDark</li>
+        </cannotReceiveThoughts>
+      </thoughtSettings>
+      <relationSettings>
+        <relationChanceModifierExLover>1</relationChanceModifierExLover>
+        <relationChanceModifierExSpouse>1</relationChanceModifierExSpouse>
+        <relationChanceModifierFiance>1</relationChanceModifierFiance>
+        <relationChanceModifierLover>1</relationChanceModifierLover>
+        <relationChanceModifierSpouse>1</relationChanceModifierSpouse>
+      </relationSettings>
+      <raceRestriction>
+      </raceRestriction>
+    </alienRace>
+    <statBases>
+      <MarketValue>1900</MarketValue>
+      <MoveSpeed>6</MoveSpeed>
+      <Flammability>0</Flammability>
+      <ComfyTemperatureMin>-60</ComfyTemperatureMin>
+      <ComfyTemperatureMax>1000</ComfyTemperatureMax>
+      <LeatherAmount>0</LeatherAmount>
+      <ResearchSpeed>1.20</ResearchSpeed>
+      <MiningSpeed>0.95</MiningSpeed>
+      <SocialImpact>1.25</SocialImpact>
+    </statBases>
+    <tools>
+      <li>
+        <label>left fist</label>
+        <capacities>
+          <li>Burn</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>LeftHand</linkedBodyPartsGroup>
+      </li>
+      <li>
+        <label>right fist</label>
+        <capacities>
+          <li>Burn</li>
+        </capacities>
+        <power>6</power>
+        <cooldownTime>1.6</cooldownTime>
+        <linkedBodyPartsGroup>RightHand</linkedBodyPartsGroup>
+      </li>
+    </tools>
+    <race>
+      <thinkTreeMain>Humanlike</thinkTreeMain>
+      <thinkTreeConstant>HumanlikeConstant</thinkTreeConstant>
+      <intelligence>Humanlike</intelligence>
+      <makesFootprints>true</makesFootprints>
+      <lifeExpectancy>800</lifeExpectancy>
+      <leatherDef>Leather_Human</leatherDef>
+      <nameCategory>HumanStandard</nameCategory>
+      <body>Novakid</body>
+      <bloodDef>gas_blood</bloodDef>
+      <baseBodySize>1</baseBodySize>
+      <baseHealthScale>1</baseHealthScale>
+      <foodType>OmnivoreHuman</foodType>
+      <nuzzleMtbHours>3</nuzzleMtbHours>
+      <lifeStageAges>
+        <li>
+          <def>HumanlikeBaby</def>
+          <minAge>0</minAge>
+        </li>
+        <li>
+          <def>HumanlikeToddler</def>
+          <minAge>100</minAge>
+        </li>
+        <li>
+          <def>HumanlikeChild</def>
+          <minAge>200</minAge>
+        </li>
+        <li>
+          <def>HumanlikeTeenager</def>
+          <minAge>300</minAge>
+        </li>
+        <li>
+          <def>HumanlikeAdult</def>
+          <minAge>350</minAge>
+        </li>
+      </lifeStageAges>
+      <soundMeleeHitPawn>Pawn_Melee_Punch_HitPawn</soundMeleeHitPawn>
+      <soundMeleeHitBuilding>Pawn_Melee_Punch_HitBuilding</soundMeleeHitBuilding>
+      <soundMeleeMiss>Pawn_Melee_Punch_Miss</soundMeleeMiss>
+      <specialShadowData>
+        <volume>(0.3, 0.8, 0.4)</volume>
+        <offset>(0,0,-0.3)</offset>
+      </specialShadowData>
+      <ageGenerationCurve>
+        <points>
+          <li>(200,0)</li>
+          <li>(360,100)</li>
+          <li>(390,100)</li>
+          <li>(450,30)</li>
+          <li>(550,18)</li>
+          <li>(600,10)</li>
+          <li>(750,3)</li>
+          <li>(800,1)</li>
+          <li>(1000,0)</li>
+        </points>
+      </ageGenerationCurve>
+      <hediffGiverSets>
+        <li>OrganicStandard</li>
+      </hediffGiverSets>
+    </race>
+    <recipes>
+      <li>InstallPowerClaw</li>
+      <li>InstallBionicArm</li>
+      <li>InstallBionicLeg</li>
+      <li>InstallSimpleProstheticArm</li>
+      <li>InstallSimpleProstheticLeg</li>
+      <li>InstallPegLeg</li>
+      <li>InstallDenture</li>
+      <li>ExciseCarcinoma</li>
+      <li>RemoveBodyPart</li>
+      <li>Euthanize</li>
+    </recipes>
+  </AlienRace.ThingDef_AlienRace>
+  <ManeuverDef>
+    <defName>Burn</defName>
+    <requiredCapacity>Burn</requiredCapacity>
+    <verb>
+      <verbClass>Verb_MeleeAttackDamage</verbClass>
+      <meleeDamageDef>Burn</meleeDamageDef>
+    </verb>
+    <combatLogRulesHit>Maneuver_Smash_MeleeHit</combatLogRulesHit>
+    <combatLogRulesDeflect>Maneuver_Smash_MeleeDeflect</combatLogRulesDeflect>
+    <combatLogRulesMiss>Maneuver_Smash_MeleeMiss</combatLogRulesMiss>
+    <combatLogRulesDodge>Maneuver_Smash_MeleeDodge</combatLogRulesDodge>
+  </ManeuverDef>
+  <ToolCapacityDef>
+    <defName>Burn</defName>
+    <label>burn</label>
+  </ToolCapacityDef>
+</Defs>
