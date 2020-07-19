@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Novakid.label>novakid</Novakid.label>
+  <Novakid.corePart.parts.11.parts.0.parts.2.customLabel>left ear</Novakid.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Novakid.corePart.parts.11.parts.0.parts.3.customLabel>right ear</Novakid.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Novakid.corePart.parts.12.customLabel>left shoulder</Novakid.corePart.parts.12.customLabel>
+  <Novakid.corePart.parts.12.parts.0.customLabel>left clavicle</Novakid.corePart.parts.12.parts.0.customLabel>
+  <Novakid.corePart.parts.12.parts.1.customLabel>left arm</Novakid.corePart.parts.12.parts.1.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.0.customLabel>left humerus</Novakid.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.1.customLabel>left radius</Novakid.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.2.customLabel>left hand</Novakid.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>left hand pinky</Novakid.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>left hand ring finger</Novakid.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>left hand middle finger</Novakid.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>left hand index finger</Novakid.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Novakid.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>left hand thumb</Novakid.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Novakid.corePart.parts.13.customLabel>right shoulder</Novakid.corePart.parts.13.customLabel>
+  <Novakid.corePart.parts.13.parts.0.customLabel>right clavicle</Novakid.corePart.parts.13.parts.0.customLabel>
+  <Novakid.corePart.parts.13.parts.1.customLabel>right arm</Novakid.corePart.parts.13.parts.1.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.0.customLabel>right humerus</Novakid.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.1.customLabel>right radius</Novakid.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.2.customLabel>right hand</Novakid.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>right hand pinky</Novakid.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>right hand ring finger</Novakid.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>right hand middle finger</Novakid.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>right hand index finger</Novakid.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Novakid.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>right hand thumb</Novakid.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Novakid.corePart.parts.15.customLabel>left leg</Novakid.corePart.parts.15.customLabel>
+  <Novakid.corePart.parts.15.parts.0.customLabel>left femur</Novakid.corePart.parts.15.parts.0.customLabel>
+  <Novakid.corePart.parts.15.parts.1.customLabel>left tibia</Novakid.corePart.parts.15.parts.1.customLabel>
+  <Novakid.corePart.parts.15.parts.2.customLabel>left foot</Novakid.corePart.parts.15.parts.2.customLabel>
+  <Novakid.corePart.parts.15.parts.2.parts.0.customLabel>left foot little toe</Novakid.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Novakid.corePart.parts.15.parts.2.parts.1.customLabel>left foot fourth toe</Novakid.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Novakid.corePart.parts.15.parts.2.parts.2.customLabel>left foot middle toe</Novakid.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Novakid.corePart.parts.15.parts.2.parts.3.customLabel>left foot second toe</Novakid.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Novakid.corePart.parts.15.parts.2.parts.4.customLabel>left foot big toe</Novakid.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Novakid.corePart.parts.16.customLabel>right leg</Novakid.corePart.parts.16.customLabel>
+  <Novakid.corePart.parts.16.parts.0.customLabel>right femur</Novakid.corePart.parts.16.parts.0.customLabel>
+  <Novakid.corePart.parts.16.parts.1.customLabel>right tibia</Novakid.corePart.parts.16.parts.1.customLabel>
+  <Novakid.corePart.parts.16.parts.2.customLabel>right foot</Novakid.corePart.parts.16.parts.2.customLabel>
+  <Novakid.corePart.parts.16.parts.2.parts.0.customLabel>right foot little toe</Novakid.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Novakid.corePart.parts.16.parts.2.parts.1.customLabel>right foot fourth toe</Novakid.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Novakid.corePart.parts.16.parts.2.parts.2.customLabel>right foot middle toe</Novakid.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Novakid.corePart.parts.16.parts.2.parts.3.customLabel>right foot second toe</Novakid.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Novakid.corePart.parts.16.parts.2.parts.4.customLabel>right foot big toe</Novakid.corePart.parts.16.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

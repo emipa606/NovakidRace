@@ -75,6 +75,15 @@
         </options>
       </li>
       <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <novakidpirateGuard>90</novakidpirateGuard>
+          <novakidpirateRecruit>100</novakidpirateRecruit>
+          <novakidpirateHunter>130</novakidpirateHunter>
+          <novakidpirateCommando>130</novakidpirateCommando>
+        </options>
+      </li>
+      <li>
         <kindDef>Trader</kindDef>
         <traders>
           <novakidTrader>1</novakidTrader>
@@ -211,7 +220,6 @@
     <settlementTexturePath>World/WorldObjects/novakidbaseicon</settlementTexturePath>
     <factionIconPath>World/WorldObjects/novakidbaseicon</factionIconPath>
   </FactionDef>
-  
   <FactionDef ParentName="PlayerFactionBase">
     <defName>novakidplayer</defName>
     <label>Novakid Base</label>
@@ -222,24 +230,23 @@
     <pawnsPlural>novakid</pawnsPlural>
     <techLevel>Industrial</techLevel>
     <backstoryCategories>
-	  <li>Outlander</li>
+      <li>Outlander</li>
     </backstoryCategories>
     <factionIconPath>World/WorldObjects/novakidbaseicon</factionIconPath>
     <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
-	<factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
     <geneticVariance>1</geneticVariance>
-	<startingResearchTags>
-		<li>ClassicStart</li>
-	</startingResearchTags>
-	<hairTags>
-		<li>Rural</li>
-	</hairTags>
-	<apparelStuffFilter>
-		<thingDefs>
-			<li>Synthread</li>
-		</thingDefs>
-	</apparelStuffFilter>
+    <startingResearchTags>
+      <li>ClassicStart</li>
+    </startingResearchTags>
+    <hairTags>
+      <li>Rural</li>
+    </hairTags>
+    <apparelStuffFilter>
+      <thingDefs>
+        <li>Synthread</li>
+      </thingDefs>
+    </apparelStuffFilter>
   </FactionDef>
-  
 </Defs>

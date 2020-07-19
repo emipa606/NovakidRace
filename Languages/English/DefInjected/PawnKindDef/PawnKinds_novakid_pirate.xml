@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- novakid Civilians -->
+
+  <novakidpirate.label>bandit</novakidpirate.label>
+  <novakidpirate.labelPlural>bandits</novakidpirate.labelPlural>
+  <novakidpirate.labelMale>male bandit</novakidpirate.labelMale>
+  <novakidpirate.labelMalePlural>male bandits</novakidpirate.labelMalePlural>
+  <novakidpirate.labelFemale>female bandit</novakidpirate.labelFemale>
+  <novakidpirate.labelFemalePlural>female bandits</novakidpirate.labelFemalePlural>
+
+  <novakidchief.label>chief</novakidchief.label>
+  <novakidchief.labelPlural>chiefs</novakidchief.labelPlural>
+  <novakidchief.labelMale>male chief</novakidchief.labelMale>
+  <novakidchief.labelMalePlural>male chiefs</novakidchief.labelMalePlural>
+  <novakidchief.labelFemale>female chief</novakidchief.labelFemale>
+  <novakidchief.labelFemalePlural>female chiefs</novakidchief.labelFemalePlural>
+
+  <novakidpirateTrader.label>pirate trader</novakidpirateTrader.label>
+  <novakidpirateTrader.labelPlural>pirate traders</novakidpirateTrader.labelPlural>
+  <novakidpirateTrader.labelMale>male pirate trader</novakidpirateTrader.labelMale>
+  <novakidpirateTrader.labelMalePlural>male pirate traders</novakidpirateTrader.labelMalePlural>
+  <novakidpirateTrader.labelFemale>female pirate trader</novakidpirateTrader.labelFemale>
+  <novakidpirateTrader.labelFemalePlural>female pirate traders</novakidpirateTrader.labelFemalePlural>
+
+  <novakidPirateSlave.label>colonist</novakidPirateSlave.label>
+  <novakidPirateSlave.labelPlural>colonists</novakidPirateSlave.labelPlural>
+  <novakidPirateSlave.labelMale>male colonist</novakidPirateSlave.labelMale>
+  <novakidPirateSlave.labelMalePlural>male colonists</novakidPirateSlave.labelMalePlural>
+  <novakidPirateSlave.labelFemale>female colonist</novakidPirateSlave.labelFemale>
+  <novakidPirateSlave.labelFemalePlural>female colonists</novakidPirateSlave.labelFemalePlural>
+
+
+  <!-- novakid Security -->
+
+  <novakidpirateGuard.label>bandit guard</novakidpirateGuard.label>
+  <novakidpirateGuard.labelPlural>bandit guards</novakidpirateGuard.labelPlural>
+  <novakidpirateGuard.labelMale>male bandit guard</novakidpirateGuard.labelMale>
+  <novakidpirateGuard.labelMalePlural>male bandit guards</novakidpirateGuard.labelMalePlural>
+  <novakidpirateGuard.labelFemale>female bandit guard</novakidpirateGuard.labelFemale>
+  <novakidpirateGuard.labelFemalePlural>female bandit guards</novakidpirateGuard.labelFemalePlural>
+
+
+  <!-- novakid Military -->
+
+  <novakidpirateRecruit.label>bandit recruit</novakidpirateRecruit.label>
+  <novakidpirateRecruit.labelPlural>bandit recruits</novakidpirateRecruit.labelPlural>
+  <novakidpirateRecruit.labelMale>male bandit recruit</novakidpirateRecruit.labelMale>
+  <novakidpirateRecruit.labelMalePlural>male bandit recruits</novakidpirateRecruit.labelMalePlural>
+  <novakidpirateRecruit.labelFemale>female bandit recruit</novakidpirateRecruit.labelFemale>
+  <novakidpirateRecruit.labelFemalePlural>female bandit recruits</novakidpirateRecruit.labelFemalePlural>
+
+  <novakidpirateHunter.label>bandit hunter</novakidpirateHunter.label>
+  <novakidpirateHunter.labelPlural>bandit hunters</novakidpirateHunter.labelPlural>
+  <novakidpirateHunter.labelMale>male bandit hunter</novakidpirateHunter.labelMale>
+  <novakidpirateHunter.labelMalePlural>male bandit hunters</novakidpirateHunter.labelMalePlural>
+  <novakidpirateHunter.labelFemale>female bandit hunter</novakidpirateHunter.labelFemale>
+  <novakidpirateHunter.labelFemalePlural>female bandit hunters</novakidpirateHunter.labelFemalePlural>
+
+  <novakidpirateCommando.label>bandit commando</novakidpirateCommando.label>
+  <novakidpirateCommando.labelPlural>bandit commandos</novakidpirateCommando.labelPlural>
+  <novakidpirateCommando.labelMale>male bandit commando</novakidpirateCommando.labelMale>
+  <novakidpirateCommando.labelMalePlural>male bandit commandos</novakidpirateCommando.labelMalePlural>
+  <novakidpirateCommando.labelFemale>female bandit commando</novakidpirateCommando.labelFemale>
+  <novakidpirateCommando.labelFemalePlural>female bandit commandos</novakidpirateCommando.labelFemalePlural>
+
+  <novakidpirateCommandoElite.label>bandit elite commando</novakidpirateCommandoElite.label>
+  <novakidpirateCommandoElite.labelPlural>bandit elite commandos</novakidpirateCommandoElite.labelPlural>
+  <novakidpirateCommandoElite.labelMale>male bandit elite commando</novakidpirateCommandoElite.labelMale>
+  <novakidpirateCommandoElite.labelMalePlural>male bandit elite commandos</novakidpirateCommandoElite.labelMalePlural>
+  <novakidpirateCommandoElite.labelFemale>female bandit elite commando</novakidpirateCommandoElite.labelFemale>
+  <novakidpirateCommandoElite.labelFemalePlural>female bandit elite commandos</novakidpirateCommandoElite.labelFemalePlural>
+
+
+</LanguageData>
