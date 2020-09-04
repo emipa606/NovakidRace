@@ -1,76 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- novakid Civilians -->
-
-  <novakidColonist.label>colonist</novakidColonist.label>
-  <novakidColonist.labelPlural>colonists</novakidColonist.labelPlural>
-  <novakidColonist.labelMale>male colonist</novakidColonist.labelMale>
-  <novakidColonist.labelMalePlural>male colonists</novakidColonist.labelMalePlural>
-  <novakidColonist.labelFemale>female colonist</novakidColonist.labelFemale>
-  <novakidColonist.labelFemalePlural>female colonists</novakidColonist.labelFemalePlural>
-
-  <novakidsheriff.label>sheriff</novakidsheriff.label>
-  <novakidsheriff.labelPlural>sheriffs</novakidsheriff.labelPlural>
-  <novakidsheriff.labelMale>male sheriff</novakidsheriff.labelMale>
-  <novakidsheriff.labelMalePlural>male sheriffs</novakidsheriff.labelMalePlural>
-  <novakidsheriff.labelFemale>female sheriff</novakidsheriff.labelFemale>
-  <novakidsheriff.labelFemalePlural>female sheriffs</novakidsheriff.labelFemalePlural>
-
-  <novakidTrader.label>colony trader</novakidTrader.label>
-  <novakidTrader.labelPlural>colony traders</novakidTrader.labelPlural>
-  <novakidTrader.labelMale>male colony trader</novakidTrader.labelMale>
-  <novakidTrader.labelMalePlural>male colony traders</novakidTrader.labelMalePlural>
-  <novakidTrader.labelFemale>female colony trader</novakidTrader.labelFemale>
-  <novakidTrader.labelFemalePlural>female colony traders</novakidTrader.labelFemalePlural>
-
-  <novakidSlave.label>colonist</novakidSlave.label>
-  <novakidSlave.labelPlural>colonists</novakidSlave.labelPlural>
-  <novakidSlave.labelMale>male colonist</novakidSlave.labelMale>
-  <novakidSlave.labelMalePlural>male colonists</novakidSlave.labelMalePlural>
-  <novakidSlave.labelFemale>female colonist</novakidSlave.labelFemale>
-  <novakidSlave.labelFemalePlural>female colonists</novakidSlave.labelFemalePlural>
-
-
+  <!--<novakidColonist.label>colonist</novakidColonist.label>-->
+  <!--<novakidColonist.labelPlural>colonists</novakidColonist.labelPlural>-->
+  <!--<novakidColonist.labelMale>male colonist</novakidColonist.labelMale>-->
+  <!--<novakidColonist.labelMalePlural>male colonists</novakidColonist.labelMalePlural>-->
+  <!--<novakidColonist.labelFemale>female colonist</novakidColonist.labelFemale>-->
+  <!--<novakidColonist.labelFemalePlural>female colonists</novakidColonist.labelFemalePlural>-->
+  <!--<novakidsheriff.label>sheriff</novakidsheriff.label>-->
+  <!--<novakidsheriff.labelPlural>sheriffs</novakidsheriff.labelPlural>-->
+  <!--<novakidsheriff.labelMale>male sheriff</novakidsheriff.labelMale>-->
+  <!--<novakidsheriff.labelMalePlural>male sheriffs</novakidsheriff.labelMalePlural>-->
+  <!--<novakidsheriff.labelFemale>female sheriff</novakidsheriff.labelFemale>-->
+  <!--<novakidsheriff.labelFemalePlural>female sheriffs</novakidsheriff.labelFemalePlural>-->
+  <!--<novakidTrader.label>colony trader</novakidTrader.label>-->
+  <!--<novakidTrader.labelPlural>colony traders</novakidTrader.labelPlural>-->
+  <!--<novakidTrader.labelMale>male colony trader</novakidTrader.labelMale>-->
+  <!--<novakidTrader.labelMalePlural>male colony traders</novakidTrader.labelMalePlural>-->
+  <!--<novakidTrader.labelFemale>female colony trader</novakidTrader.labelFemale>-->
+  <!--<novakidTrader.labelFemalePlural>female colony traders</novakidTrader.labelFemalePlural>-->
+  <!--<novakidSlave.label>colonist</novakidSlave.label>-->
+  <!--<novakidSlave.labelPlural>colonists</novakidSlave.labelPlural>-->
+  <!--<novakidSlave.labelMale>male colonist</novakidSlave.labelMale>-->
+  <!--<novakidSlave.labelMalePlural>male colonists</novakidSlave.labelMalePlural>-->
+  <!--<novakidSlave.labelFemale>female colonist</novakidSlave.labelFemale>-->
+  <!--<novakidSlave.labelFemalePlural>female colonists</novakidSlave.labelFemalePlural>-->
   <!-- novakid Security -->
-
-  <novakidSecurityGuard.label>security guard</novakidSecurityGuard.label>
-  <novakidSecurityGuard.labelPlural>security guards</novakidSecurityGuard.labelPlural>
-  <novakidSecurityGuard.labelMale>male security guard</novakidSecurityGuard.labelMale>
-  <novakidSecurityGuard.labelMalePlural>male security guards</novakidSecurityGuard.labelMalePlural>
-  <novakidSecurityGuard.labelFemale>female security guard</novakidSecurityGuard.labelFemale>
-  <novakidSecurityGuard.labelFemalePlural>female security guards</novakidSecurityGuard.labelFemalePlural>
-
-
+  <!--<novakidSecurityGuard.label>security guard</novakidSecurityGuard.label>-->
+  <!--<novakidSecurityGuard.labelPlural>security guards</novakidSecurityGuard.labelPlural>-->
+  <!--<novakidSecurityGuard.labelMale>male security guard</novakidSecurityGuard.labelMale>-->
+  <!--<novakidSecurityGuard.labelMalePlural>male security guards</novakidSecurityGuard.labelMalePlural>-->
+  <!--<novakidSecurityGuard.labelFemale>female security guard</novakidSecurityGuard.labelFemale>-->
+  <!--<novakidSecurityGuard.labelFemalePlural>female security guards</novakidSecurityGuard.labelFemalePlural>-->
   <!-- novakid Military -->
-
-  <novakidRecruit.label>recruit</novakidRecruit.label>
-  <novakidRecruit.labelPlural>recruits</novakidRecruit.labelPlural>
-  <novakidRecruit.labelMale>male recruit</novakidRecruit.labelMale>
-  <novakidRecruit.labelMalePlural>male recruits</novakidRecruit.labelMalePlural>
-  <novakidRecruit.labelFemale>female recruit</novakidRecruit.labelFemale>
-  <novakidRecruit.labelFemalePlural>female recruits</novakidRecruit.labelFemalePlural>
-
-  <novakidHunter.label>hunter</novakidHunter.label>
-  <novakidHunter.labelPlural>hunters</novakidHunter.labelPlural>
-  <novakidHunter.labelMale>male hunter</novakidHunter.labelMale>
-  <novakidHunter.labelMalePlural>male hunters</novakidHunter.labelMalePlural>
-  <novakidHunter.labelFemale>female hunter</novakidHunter.labelFemale>
-  <novakidHunter.labelFemalePlural>female hunters</novakidHunter.labelFemalePlural>
-
-  <novakidCommando.label>commando</novakidCommando.label>
-  <novakidCommando.labelPlural>commandos</novakidCommando.labelPlural>
-  <novakidCommando.labelMale>male commando</novakidCommando.labelMale>
-  <novakidCommando.labelMalePlural>male commandos</novakidCommando.labelMalePlural>
-  <novakidCommando.labelFemale>female commando</novakidCommando.labelFemale>
-  <novakidCommando.labelFemalePlural>female commandos</novakidCommando.labelFemalePlural>
-
-  <novakidCommandoElite.label>elite commando</novakidCommandoElite.label>
-  <novakidCommandoElite.labelPlural>elite commandos</novakidCommandoElite.labelPlural>
-  <novakidCommandoElite.labelMale>male elite commando</novakidCommandoElite.labelMale>
-  <novakidCommandoElite.labelMalePlural>male elite commandos</novakidCommandoElite.labelMalePlural>
-  <novakidCommandoElite.labelFemale>female elite commando</novakidCommandoElite.labelFemale>
-  <novakidCommandoElite.labelFemalePlural>female elite commandos</novakidCommandoElite.labelFemalePlural>
-
+  <!--<novakidRecruit.label>recruit</novakidRecruit.label>-->
+  <!--<novakidRecruit.labelPlural>recruits</novakidRecruit.labelPlural>-->
+  <!--<novakidRecruit.labelMale>male recruit</novakidRecruit.labelMale>-->
+  <!--<novakidRecruit.labelMalePlural>male recruits</novakidRecruit.labelMalePlural>-->
+  <!--<novakidRecruit.labelFemale>female recruit</novakidRecruit.labelFemale>-->
+  <!--<novakidRecruit.labelFemalePlural>female recruits</novakidRecruit.labelFemalePlural>-->
+  <!--<novakidHunter.label>hunter</novakidHunter.label>-->
+  <!--<novakidHunter.labelPlural>hunters</novakidHunter.labelPlural>-->
+  <!--<novakidHunter.labelMale>male hunter</novakidHunter.labelMale>-->
+  <!--<novakidHunter.labelMalePlural>male hunters</novakidHunter.labelMalePlural>-->
+  <!--<novakidHunter.labelFemale>female hunter</novakidHunter.labelFemale>-->
+  <!--<novakidHunter.labelFemalePlural>female hunters</novakidHunter.labelFemalePlural>-->
+  <!--<novakidCommando.label>commando</novakidCommando.label>-->
+  <!--<novakidCommando.labelPlural>commandos</novakidCommando.labelPlural>-->
+  <!--<novakidCommando.labelMale>male commando</novakidCommando.labelMale>-->
+  <!--<novakidCommando.labelMalePlural>male commandos</novakidCommando.labelMalePlural>-->
+  <!--<novakidCommando.labelFemale>female commando</novakidCommando.labelFemale>-->
+  <!--<novakidCommando.labelFemalePlural>female commandos</novakidCommando.labelFemalePlural>-->
+  <!--<novakidCommandoElite.label>elite commando</novakidCommandoElite.label>-->
+  <!--<novakidCommandoElite.labelPlural>elite commandos</novakidCommandoElite.labelPlural>-->
+  <!--<novakidCommandoElite.labelMale>male elite commando</novakidCommandoElite.labelMale>-->
+  <!--<novakidCommandoElite.labelMalePlural>male elite commandos</novakidCommandoElite.labelMalePlural>-->
+  <!--<novakidCommandoElite.labelFemale>female elite commando</novakidCommandoElite.labelFemale>-->
+  <!--<novakidCommandoElite.labelFemalePlural>female elite commandos</novakidCommandoElite.labelFemalePlural>-->
 
 </LanguageData>

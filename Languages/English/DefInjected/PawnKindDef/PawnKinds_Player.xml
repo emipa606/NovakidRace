@@ -1,19 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <novakid_colonist.label>novakid colonist</novakid_colonist.label>
-  <novakid_colonist.labelPlural>novakid colonists</novakid_colonist.labelPlural>
-  <novakid_colonist.labelMale>male novakid colonist</novakid_colonist.labelMale>
-  <novakid_colonist.labelMalePlural>male novakid colonists</novakid_colonist.labelMalePlural>
-  <novakid_colonist.labelFemale>female novakid colonist</novakid_colonist.labelFemale>
-  <novakid_colonist.labelFemalePlural>female novakid colonists</novakid_colonist.labelFemalePlural>
-
-  <Novakid_Tribesperson.label>novakid member</Novakid_Tribesperson.label>
-  <Novakid_Tribesperson.labelPlural>novakid members</Novakid_Tribesperson.labelPlural>
-  <Novakid_Tribesperson.labelMale>male novakid member</Novakid_Tribesperson.labelMale>
-  <Novakid_Tribesperson.labelMalePlural>male novakid members</Novakid_Tribesperson.labelMalePlural>
-  <Novakid_Tribesperson.labelFemale>female novakid member</Novakid_Tribesperson.labelFemale>
-  <Novakid_Tribesperson.labelFemalePlural>female novakid members</Novakid_Tribesperson.labelFemalePlural>
-
+  <!--<novakid_colonist.label>novakid colonist</novakid_colonist.label>-->
+  <!--<novakid_colonist.labelPlural>novakid colonists</novakid_colonist.labelPlural>-->
+  <!--<novakid_colonist.labelMale>male novakid colonist</novakid_colonist.labelMale>-->
+  <!--<novakid_colonist.labelMalePlural>male novakid colonists</novakid_colonist.labelMalePlural>-->
+  <!--<novakid_colonist.labelFemale>female novakid colonist</novakid_colonist.labelFemale>-->
+  <!--<novakid_colonist.labelFemalePlural>female novakid colonists</novakid_colonist.labelFemalePlural>-->
+  <!--<Novakid_Tribesperson.label>novakid member</Novakid_Tribesperson.label>-->
+  <!--<Novakid_Tribesperson.labelPlural>novakid members</Novakid_Tribesperson.labelPlural>-->
+  <!--<Novakid_Tribesperson.labelMale>male novakid member</Novakid_Tribesperson.labelMale>-->
+  <!--<Novakid_Tribesperson.labelMalePlural>male novakid members</Novakid_Tribesperson.labelMalePlural>-->
+  <!--<Novakid_Tribesperson.labelFemale>female novakid member</Novakid_Tribesperson.labelFemale>-->
+  <!--<Novakid_Tribesperson.labelFemalePlural>female novakid members</Novakid_Tribesperson.labelFemalePlural>-->
 
 </LanguageData>

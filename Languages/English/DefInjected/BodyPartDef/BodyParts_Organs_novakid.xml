@@ -1,13 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <GasPump.label>GasPump (heart)</GasPump.label>
-  <LeftGasConverter.label>LeftGasConverter (lung)</LeftGasConverter.label>
-  <RightGasConverter.label>RightGasConverter (lung)</RightGasConverter.label>
-  <LeftGasFilter.label>LeftGasFilter (kidney)</LeftGasFilter.label>
-  <RightGasFilter.label>RightGasFilter (kidney)</RightGasFilter.label>
-  <AntiPoisonGas.label>AntiPoisonGas (liver)</AntiPoisonGas.label>
-  <AcidGasBubble.label>AcidGasBubble (stomach)</AcidGasBubble.label>
-
+  <!--<GasPump.label>GasPump (heart)</GasPump.label>-->
+  <!--<LeftGasConverter.label>LeftGasConverter (lung)</LeftGasConverter.label>-->
+  <!--<RightGasConverter.label>RightGasConverter (lung)</RightGasConverter.label>-->
+  <!--<LeftGasFilter.label>LeftGasFilter (kidney)</LeftGasFilter.label>-->
+  <!--<RightGasFilter.label>RightGasFilter (kidney)</RightGasFilter.label>-->
+  <!--<AntiPoisonGas.label>AntiPoisonGas (liver)</AntiPoisonGas.label>-->
+  <!--<AcidGasBubble.label>AcidGasBubble (stomach)</AcidGasBubble.label>-->
 
 </LanguageData>

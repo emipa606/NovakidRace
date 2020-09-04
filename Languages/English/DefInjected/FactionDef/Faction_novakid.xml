@@ -1,19 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <novakidbandit.label>novakid bandit camp</novakidbandit.label>
-  <novakidbandit.description>A camp of hostile novakid, they do not side with anyone and their gear is only what they raided .</novakidbandit.description>
-  <novakidbandit.pawnsPlural>novakid</novakidbandit.pawnsPlural>
-  <novakidbandit.leaderTitle>chief</novakidbandit.leaderTitle>
-
-  <novakidtown.label>novakid town</novakidtown.label>
-  <novakidtown.description>A town inhabited by the mysterious novakid, they trade and side with other factions, but dont let any humans into their communities .</novakidtown.description>
-  <novakidtown.pawnsPlural>novakid</novakidtown.pawnsPlural>
-  <novakidtown.leaderTitle>sheriff</novakidtown.leaderTitle>
-
-  <novakidplayer.label>Novakid Base</novakidplayer.label>
-  <novakidplayer.description>They dont let any humans into their communities.</novakidplayer.description>
-  <novakidplayer.pawnsPlural>novakid</novakidplayer.pawnsPlural>
-
+  <!--<novakidbandit.label>novakid bandit camp</novakidbandit.label>-->
+  <!--<novakidbandit.description>A camp of hostile novakid, they do not side with anyone and their gear is only what they raided .</novakidbandit.description>-->
+  <!--<novakidbandit.pawnsPlural>novakid</novakidbandit.pawnsPlural>-->
+  <!--<novakidbandit.leaderTitle>chief</novakidbandit.leaderTitle>-->
+  <!--<novakidtown.label>novakid town</novakidtown.label>-->
+  <!--<novakidtown.description>A town inhabited by the mysterious novakid, they trade and side with other factions, but dont let any humans into their communities .</novakidtown.description>-->
+  <!--<novakidtown.pawnsPlural>novakid</novakidtown.pawnsPlural>-->
+  <!--<novakidtown.leaderTitle>sheriff</novakidtown.leaderTitle>-->
+  <!--<novakidplayer.label>Novakid Base</novakidplayer.label>-->
+  <!--<novakidplayer.description>They dont let any humans into their communities.</novakidplayer.description>-->
+  <!--<novakidplayer.pawnsPlural>novakid</novakidplayer.pawnsPlural>-->
 
 </LanguageData>
