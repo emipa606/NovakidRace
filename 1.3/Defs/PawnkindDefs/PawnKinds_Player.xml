@@ -4,7 +4,8 @@
     <race>Alien_novakid</race>
     <combatPower>30</combatPower>
     <minGenerationAge>360</minGenerationAge>
-    <baseRecruitDifficulty>0.50</baseRecruitDifficulty>
+    <initialWillRange>1~3</initialWillRange>
+    <initialResistanceRange>12~21</initialResistanceRange>
     <isFighter>false</isFighter>
     <apparelIgnoreSeasons>true</apparelIgnoreSeasons>
     <forceNormalGearQuality>true</forceNormalGearQuality>

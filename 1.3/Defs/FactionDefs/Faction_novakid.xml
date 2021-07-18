@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>novakidbandit</defName>
+    <label>novakid bandit camp</label>
+    <description>A camp of hostile novakid, they do not side with anyone and their gear is only what they raided .</description>
+    <pawnsPlural>novakid</pawnsPlural>
+    <categoryTag>HumanStandard</categoryTag>
+    <settlementGenerationWeight>.75</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <canMakeRandomly>true</canMakeRandomly>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <leaderTitle>chief</leaderTitle>
+    <allowedCultures>
+      <li>Rustican</li>
+    </allowedCultures>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>Outlander</li>
+        </categories>
+      </li>
+    </backstoryFilters>
+    <permanentEnemy>true</permanentEnemy>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
+    <techLevel>Industrial</techLevel>
+    <visitorTraderKinds>
+      <li>Visitor_novakid_Standard</li>
+    </visitorTraderKinds>
+    <caravanTraderKinds>
+      <li>Caravan_Outlander_BulkGoods</li>
+      <li>Caravan_Outlander_CombatSupplier</li>
+      <li>Caravan_Outlander_Exotic</li>
+    </caravanTraderKinds>
+    <baseTraderKinds>
+      <li>Base_Outlander_Standard</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>
+      <min>-60</min>
+      <max>900</max>
+    </allowedArrivalTemperatureRange>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(700, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <novakidpirate>50</novakidpirate>
+          <novakidpirateGuard>90</novakidpirateGuard>
+          <novakidchief>250</novakidchief>
+          <novakidpirateRecruit>100</novakidpirateRecruit>
+          <novakidpirateHunter>130</novakidpirateHunter>
+          <novakidpirateCommando>130</novakidpirateCommando>
+          <novakidpirateCommandoElite>170</novakidpirateCommandoElite>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <novakidpirateGuard>90</novakidpirateGuard>
+          <novakidpirateRecruit>100</novakidpirateRecruit>
+          <novakidpirateHunter>130</novakidpirateHunter>
+          <novakidpirateCommando>130</novakidpirateCommando>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <novakidTrader>1</novakidTrader>
+        </traders>
+        <carriers>
+          <Muffalo>2</Muffalo>
+          <Dromedary>2</Dromedary>
+        </carriers>
+        <guards>
+          <novakidpirateGuard>90</novakidpirateGuard>
+          <novakidpirateRecruit>100</novakidpirateRecruit>
+          <novakidpirateHunter>130</novakidpirateHunter>
+          <novakidpirateCommando>130</novakidpirateCommando>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <novakidpirate>50</novakidpirate>
+          <novakidpirateGuard>90</novakidpirateGuard>
+          <novakidchief>250</novakidchief>
+          <novakidpirateRecruit>100</novakidpirateRecruit>
+          <novakidpirateHunter>130</novakidpirateHunter>
+          <novakidpirateCommando>130</novakidpirateCommando>
+          <novakidpirateCommandoElite>170</novakidpirateCommandoElite>
+        </options>
+      </li>
+    </pawnGroupMakers>
+    <settlementTexturePath>World/WorldObjects/novakidbaseicon</settlementTexturePath>
+    <factionIconPath>World/WorldObjects/novakidbanditicon</factionIconPath>
+  </FactionDef>
+  <FactionDef ParentName="FactionBase">
+    <defName>novakidtown</defName>
+    <label>novakid town</label>
+    <description>A town inhabited by the mysterious novakid, they trade and side with other factions, but dont let any humans into their communities .</description>
+    <pawnsPlural>novakid</pawnsPlural>
+    <categoryTag>HumanStandard</categoryTag>
+    <settlementGenerationWeight>.75</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <canMakeRandomly>true</canMakeRandomly>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <leaderTitle>sheriff</leaderTitle>
+    <allowedCultures>
+      <li>Rustican</li>
+    </allowedCultures>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>Outlander</li>
+        </categories>
+      </li>
+    </backstoryFilters>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
+    <techLevel>Industrial</techLevel>
+    <visitorTraderKinds>
+      <li>Visitor_novakid_Standard</li>
+    </visitorTraderKinds>
+    <caravanTraderKinds>
+      <li>Caravan_Outlander_BulkGoods</li>
+      <li>Caravan_Outlander_CombatSupplier</li>
+      <li>Caravan_Outlander_Exotic</li>
+    </caravanTraderKinds>
+    <baseTraderKinds>
+      <li>Base_Outlander_Standard</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>
+      <min>-60</min>
+      <max>900</max>
+    </allowedArrivalTemperatureRange>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(700, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <novakidColonist>50</novakidColonist>
+          <novakidSecurityGuard>90</novakidSecurityGuard>
+          <novakidsheriff>250</novakidsheriff>
+          <novakidRecruit>100</novakidRecruit>
+          <novakidHunter>130</novakidHunter>
+          <novakidCommando>130</novakidCommando>
+          <novakidCommandoElite>170</novakidCommandoElite>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <novakidTrader>1</novakidTrader>
+        </traders>
+        <carriers>
+          <Muffalo>2</Muffalo>
+          <Dromedary>2</Dromedary>
+        </carriers>
+        <guards>
+          <novakidSecurityGuard>90</novakidSecurityGuard>
+          <novakidRecruit>100</novakidRecruit>
+          <novakidHunter>130</novakidHunter>
+          <novakidCommando>130</novakidCommando>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <novakidColonist>50</novakidColonist>
+          <novakidSecurityGuard>90</novakidSecurityGuard>
+          <novakidsheriff>250</novakidsheriff>
+          <novakidRecruit>100</novakidRecruit>
+          <novakidHunter>130</novakidHunter>
+          <novakidCommando>130</novakidCommando>
+          <novakidCommandoElite>170</novakidCommandoElite>
+        </options>
+      </li>
+    </pawnGroupMakers>
+    <settlementTexturePath>World/WorldObjects/novakidbaseicon</settlementTexturePath>
+    <factionIconPath>World/WorldObjects/novakidbaseicon</factionIconPath>
+  </FactionDef>
+  <FactionDef ParentName="FactionBase">
+    <defName>novakidplayer</defName>
+    <label>Novakid Base</label>
+    <description>They dont let any humans into their communities.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>novakid_colonist</basicMemberKind>
+    <pawnSingular>novakid</pawnSingular>
+    <pawnsPlural>novakid</pawnsPlural>
+    <techLevel>Industrial</techLevel>
+    <backstoryCategories>
+      <li>Outlander</li>
+    </backstoryCategories>
+    <factionIconPath>World/WorldObjects/novakidbaseicon</factionIconPath>
+    <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>
+    <geneticVariance>1</geneticVariance>
+    <startingResearchTags>
+      <li>ClassicStart</li>
+    </startingResearchTags>
+    <allowedCultures>
+      <li>Rustican</li>
+    </allowedCultures>
+    <apparelStuffFilter>
+      <thingDefs>
+        <li>Synthread</li>
+      </thingDefs>
+    </apparelStuffFilter>
+    <raidLootValueFromPointsCurve>
+      <points>
+        <li>(35,     15)</li>
+        <li>(100,   120)</li>
+        <li>(1000,  500)</li>
+        <li>(2000,  800)</li>
+        <li>(4000, 1000)</li>
+      </points>
+    </raidLootValueFromPointsCurve>
+  </FactionDef>
+</Defs>

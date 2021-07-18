@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BodyPartDef>
+    <defName>IintelligentGas</defName>
+    <label>IintelligentGas (brain)</label>
+    <hitPoints>10</hitPoints>
+    <permanentInjuryChanceFactor>1</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <tags>
+      <li>ConsciousnessSource</li>
+    </tags>
+    <canSuggestAmputation>false</canSuggestAmputation>
+  </BodyPartDef>
+  <BodyPartDef>
+    <defName>Brand</defName>
+    <label>Brand (eye)</label>
+    <hitPoints>20</hitPoints>
+    <permanentInjuryChanceFactor>1</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <beautyRelated>true</beautyRelated>
+    <tags>
+      <li>SightSource</li>
+    </tags>
+    <hitChanceFactors>
+      <li>
+        <key>Blunt</key>
+        <value>0</value>
+      </li>
+    </hitChanceFactors>
+  </BodyPartDef>
+</Defs>
