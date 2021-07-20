@@ -116,10 +116,6 @@
       </generalSettings>
       <graphicPaths>
       </graphicPaths>
-      <hairSettings>
-        <hasHair>true</hasHair>
-        <getsGreyAt>1000</getsGreyAt>
-      </hairSettings>
       <!-- <pawnKindSettings> -->
       <!-- <alienslavekinds> -->
       <!-- <li> -->
