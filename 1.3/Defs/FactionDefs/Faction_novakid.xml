@@ -8,6 +8,7 @@
     <categoryTag>HumanStandard</categoryTag>
     <settlementGenerationWeight>.75</settlementGenerationWeight>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>true</canSiege>
     <canStageAttacks>true</canStageAttacks>
