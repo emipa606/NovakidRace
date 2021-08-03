@@ -168,6 +168,15 @@
         </options>
       </li>
       <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <novakidColonist>90</novakidColonist>
+          <novakidHunter>100</novakidHunter>
+          <novakidSecurityGuard>130</novakidSecurityGuard>
+          <novakidCommando>130</novakidCommando>
+        </options>
+      </li>
+      <li>
         <kindDef>Trader</kindDef>
         <traders>
           <novakidTrader>1</novakidTrader>

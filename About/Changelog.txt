@@ -1,5 +1,8 @@
 # Changelog for NovakidRace
 
+1.0.7.0 - All factions now have peaceful groups for hospitality
+
+
 1.0.6.0 - Added confiurable at game-start option
 
 
