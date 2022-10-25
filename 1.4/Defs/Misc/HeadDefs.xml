@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Normal_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal_novakid</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Normal_two</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal2</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Normal_three</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal3</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Pointy_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Pointy_novakid</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Pointy_two</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Pointy2</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Pointy_three</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Pointy3</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Wide_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Wide_novakid</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Male_Average_Wide_two</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Wide2</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Novakid_Male_Narrow_Normal_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Normal_novakid</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Novakid_Male_Narrow_Pointy_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Pointy_novakid</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Novakid_Male_Narrow_Wide_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Narrow_Wide_novakid</graphicPath>
+    <gender>Male</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Normal_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal_novakid</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Normal_two</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal2</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Normal_three</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal3</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Pointy_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy_novakid</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Pointy_two</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy2</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Pointy_three</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy3</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Wide_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide_novakid</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="AverageBase">
+    <defName>Novakid_Female_Average_Wide_two</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Wide2</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Novakid_Female_Narrow_Normal_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Normal_novakid</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Novakid_Female_Narrow_Pointy_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Pointy_novakid</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>Novakid_Female_Narrow_Wide_novakid</defName>
+    <graphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Narrow_Wide_novakid</graphicPath>
+    <gender>Female</gender>
+  </HeadTypeDef>
+</Defs>

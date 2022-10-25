@@ -1,25 +1,16 @@
 # NovakidRace
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of 5katz mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1088597183
 
 - Added a basic scenario.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/NovakidRace]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 this mod adds the novakid from starbound as a playable race and two factions.
@@ -62,7 +53,7 @@ update 4: another small fix for my retardness, i forgot to add the back texture,
 update 5: bodies are done, changed the workshop page to not break running games
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
