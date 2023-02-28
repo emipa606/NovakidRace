@@ -1,5 +1,8 @@
 # Changelog for NovakidRace
 
+1.4.3 - Hair-color should be fixed now
+
+
 1.4.2 - Fixed gene-restrictions to not affect visuals, thanks to Razar on the HAR-discord
 
 
